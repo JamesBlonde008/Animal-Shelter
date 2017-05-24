@@ -1,0 +1,38 @@
+.profile {
+  width: 500px;
+  height: 500px;
+  float: left;
+  text-align: justify;
+  padding: 30px;
+  margin-left: 20px;
+  border: 4px solid purple;
+
+}
+.profile#dog{
+
+  background-color: pink;
+}
+.profile#cat {
+
+  background-color: green;
+}
+.profile#goat {
+
+  background-color: orange;
+  float:left;
+
+}
+.profile#parrot {
+
+  background-color: skyblue;
+}
+img.pic {
+  width: 250px;
+  float: left;
+}
+p {
+  font-style: italic;
+}
+.profile h2 {
+  font-style: oblique;
+}
