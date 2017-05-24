@@ -2,14 +2,13 @@
   width: 500px;
   height: 500px;
   float: left;
-  text-align: justify;
+  text-align: center;
   padding: 30px;
   margin-left: 20px;
   border: 4px solid purple;
-
 }
-.profile#dog{
 
+.profile#dog{
   background-color: pink;
 }
 .profile#cat {
@@ -20,19 +19,27 @@
 
   background-color: orange;
   float:left;
-
 }
-.profile#parrot {
 
+.profile#parrot {
   background-color: skyblue;
 }
+
 img.pic {
   width: 250px;
-  float: left;
+  float: center;
 }
+
 p {
   font-style: italic;
+  float: bottom;
 }
+
 .profile h2 {
   font-style: oblique;
+}
+
+.come_quick {
+  position: absolute
+  bottom: 120px;
 }
